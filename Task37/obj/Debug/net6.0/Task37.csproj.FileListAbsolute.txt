@@ -1,0 +1,15 @@
+C:\Users\Malya\Desktop\Seminars\Seminar5\Task37\bin\Debug\net6.0\Task37.exe
+C:\Users\Malya\Desktop\Seminars\Seminar5\Task37\bin\Debug\net6.0\Task37.deps.json
+C:\Users\Malya\Desktop\Seminars\Seminar5\Task37\bin\Debug\net6.0\Task37.runtimeconfig.json
+C:\Users\Malya\Desktop\Seminars\Seminar5\Task37\bin\Debug\net6.0\Task37.dll
+C:\Users\Malya\Desktop\Seminars\Seminar5\Task37\bin\Debug\net6.0\Task37.pdb
+C:\Users\Malya\Desktop\Seminars\Seminar5\Task37\obj\Debug\net6.0\Task37.csproj.AssemblyReference.cache
+C:\Users\Malya\Desktop\Seminars\Seminar5\Task37\obj\Debug\net6.0\Task37.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Malya\Desktop\Seminars\Seminar5\Task37\obj\Debug\net6.0\Task37.AssemblyInfoInputs.cache
+C:\Users\Malya\Desktop\Seminars\Seminar5\Task37\obj\Debug\net6.0\Task37.AssemblyInfo.cs
+C:\Users\Malya\Desktop\Seminars\Seminar5\Task37\obj\Debug\net6.0\Task37.csproj.CoreCompileInputs.cache
+C:\Users\Malya\Desktop\Seminars\Seminar5\Task37\obj\Debug\net6.0\Task37.dll
+C:\Users\Malya\Desktop\Seminars\Seminar5\Task37\obj\Debug\net6.0\refint\Task37.dll
+C:\Users\Malya\Desktop\Seminars\Seminar5\Task37\obj\Debug\net6.0\Task37.pdb
+C:\Users\Malya\Desktop\Seminars\Seminar5\Task37\obj\Debug\net6.0\Task37.genruntimeconfig.cache
+C:\Users\Malya\Desktop\Seminars\Seminar5\Task37\obj\Debug\net6.0\ref\Task37.dll
