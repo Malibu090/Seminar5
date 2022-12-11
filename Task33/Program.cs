@@ -34,9 +34,13 @@ int[] FillArrayWithRandomNumbers(int size, int leftRange, int rightRange)
     }
     return arr;
 }
-int A = InputNumber("Введите число ");
+
 array = FillArrayWithRandomNumbers(size, leftRange, rightRange);
 System.Console.WriteLine('[' + string.Join("; ", array) + ']');
+
+int A = InputNumber("Введите число ");
+// array = FillArrayWithRandomNumbers(size, leftRange, rightRange);
+// System.Console.WriteLine('[' + string.Join("; ", array) + ']');
 bool result = false;
 
 for (int i = 0; i < array.Length; i++)
@@ -48,6 +52,7 @@ for (int i = 0; i < array.Length; i++)
         break;
     }
 }
+
 if (result) 
 {
     System.Console.WriteLine("yes");
